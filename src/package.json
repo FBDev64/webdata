@@ -1,21 +1,21 @@
 {
   "name": "webdata",
   "version": "1.0.0",
-  "description": "un scraper qui télécharge l'output en json/csv",
+  "description": "A webscraper json/csv",
   "main": "index.js",
   "scripts": {
     "test": "webdata-dev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EvrestRGB/webdata.git"
+    "url": "https://github.com/FBDev64/webdata.git"
   },
   "keywords": [
     "scraper",
     "json",
     "csv"
   ],
-  "author": "Evrest",
+  "author": "FBDev64",
   "license": "UNLICENSED",
   "dependencies": {
     "https": "^1.0.0",
