@@ -1,6 +1,6 @@
 {
   "name": "webdata-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node.js webscraper",
   "main": "src/index.js",
   "scripts": {
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/FBDev64/webdata/issues"
   },
-  "homepage": "https://github.com/FBDev64/webdata#readme"
+  "homepage": "https://github.com/FBDev64/webdata#readme",
+
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+}
+
+
+
 }
