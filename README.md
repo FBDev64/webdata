@@ -4,3 +4,8 @@
 
 
 A webscraper that acts like a terminal web browser.
+
+## Installing
+```bash
+npm i -g webdata-scraper
+```
