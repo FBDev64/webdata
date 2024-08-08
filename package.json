@@ -1,0 +1,23 @@
+{
+  "name": "webdata",
+  "version": "1.0.1",
+  "description": "A node.js webscraper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBDev64/webdata.git"
+  },
+  "keywords": [
+    "csv",
+    "scraper"
+  ],
+  "author": "fbdev64",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/FBDev64/webdata/issues"
+  },
+  "homepage": "https://github.com/FBDev64/webdata#readme"
+}
