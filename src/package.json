@@ -15,6 +15,9 @@
     "json",
     "csv"
   ],
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+  },
   "author": "FBDev64",
   "license": "UNLICENSED",
   "dependencies": {
